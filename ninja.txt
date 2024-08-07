@@ -1,0 +1,3 @@
+cat >> ninja.txt "I am suman"
+git branch
+
